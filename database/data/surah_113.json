@@ -1,0 +1,19 @@
+{
+  "number": 113,
+  "name_ar": "الفلق",
+  "name_en": "Al-Falaq",
+  "name_ur": "الفلق",
+  "revelation_type": "Meccan",
+  "ayah_count": 5,
+  "raku_count": 1,
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_ar": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+      "translations": [
+        { "language": "en", "text": "Say, I seek refuge in the Lord of daybreak" },
+        { "language": "ur", "text": "کہو! میں صبح کے رب کی پناہ لیتا ہوں" }
+      ]
+    }
+  ]
+}

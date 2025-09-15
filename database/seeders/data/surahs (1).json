@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Al-Fatihah",
+    "arabic_name": "الفاتحة",
+    "english_name": "The Opening",
+    "urdu_name": "الفاتحہ",
+    "revelation_type": "Meccan",
+    "verses_count": 7,
+    "raku_count": 1
+  },
+  {
+    "id": 2,
+    "name": "Al-Baqarah",
+    "arabic_name": "البقرة",
+    "english_name": "The Cow",
+    "urdu_name": "البقرہ",
+    "revelation_type": "Medinan",
+    "verses_count": 286,
+    "raku_count": 40
+  },
+  {
+    "id": 3,
+    "name": "Aal-Imran",
+    "arabic_name": "آل عمران",
+    "english_name": "The Family of Imran",
+    "urdu_name": "آل عمران",
+    "revelation_type": "Medinan",
+    "verses_count": 200,
+    "raku_count": 20
+  },
+  {
+    "id": 114,
+    "name": "An-Nas",
+    "arabic_name": "الناس",
+    "english_name": "Mankind",
+    "urdu_name": "الناس",
+    "revelation_type": "Meccan",
+    "verses_count": 6,
+    "raku_count": 1
+  }
+]

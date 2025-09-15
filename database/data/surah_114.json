@@ -1,0 +1,19 @@
+{
+  "number": 114,
+  "name_ar": "الناس",
+  "name_en": "An-Nas",
+  "name_ur": "الناس",
+  "revelation_type": "Meccan",
+  "ayah_count": 6,
+  "raku_count": 1,
+  "verses": [
+    {
+      "verse_number": 1,
+      "text_ar": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+      "translations": [
+        { "language": "en", "text": "Say, I seek refuge in the Lord of mankind," },
+        { "language": "ur", "text": "کہو! میں لوگوں کے رب کی پناہ لیتا ہوں" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "surah_id": 1,
+  "verses": [
+    { "verse_number": 1, "text_arabic": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ", "text_english": "In the name of Allah, the Entirely Merciful, the Especially Merciful.", "text_urdu": "شروع اللہ کے نام سے جو بڑا مہربان نہایت رحم والا ہے۔" },
+    { "verse_number": 2, "text_arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ", "text_english": "All praise is [due] to Allah, Lord of the worlds -", "text_urdu": "سب تعریف اللہ کے لیے ہے جو تمام جہانوں کا پروردگار ہے۔" },
+    { "verse_number": 3, "text_arabic": "الرَّحْمَٰنِ الرَّحِيمِ", "text_english": "The Entirely Merciful, the Especially Merciful,", "text_urdu": "بڑا مہربان نہایت رحم والا۔" },
+    { "verse_number": 4, "text_arabic": "مَالِكِ يَوْمِ الدِّينِ", "text_english": "Sovereign of the Day of Recompense.", "text_urdu": "روز جزا کا مالک ہے۔" },
+    { "verse_number": 5, "text_arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ", "text_english": "It is You we worship and You we ask for help.", "text_urdu": "ہم تیری ہی عبادت کرتے ہیں اور تجھ ہی سے مدد مانگتے ہیں۔" },
+    { "verse_number": 6, "text_arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ", "text_english": "Guide us to the straight path -", "text_urdu": "ہمیں سیدھے راستے کی ہدایت دے۔" },
+    { "verse_number": 7, "text_arabic": "صِرَاطَ الَّذِينَ أَنْعَمْتَ عَلَيْهِمْ غَيْرِ الْمَغْضُوبِ عَلَيْهِمْ وَلَا الضَّالِّينَ", "text_english": "The path of those upon whom You have bestowed favor, not of those who have evoked [Your] anger or of those who are astray.", "text_urdu": "ان لوگوں کا راستہ جن پر تو نے انعام فرمایا، ان کا نہیں جن پر غضب کیا گیا اور نہ گمراہوں کا۔" }
+  ]
+}
